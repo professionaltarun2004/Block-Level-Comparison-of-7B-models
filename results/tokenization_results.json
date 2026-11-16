@@ -1,0 +1,362 @@
+[
+ {
+  "language": "English",
+  "sentences": 1997,
+  "llama": 30.474211316975463,
+  "mistral": 29.2814221331998,
+  "qwen": 26.56584877315974,
+  "better_32k": "mistral",
+  "delta_pct": -9.274048738777251,
+  "delta_ci95": [
+   -9.527736678275907,
+   -9.009198512228155
+  ],
+  "chars_per_token": {
+   "llama": 4.070525987150204,
+   "mistral": 4.236340316374519,
+   "qwen": 4.669380984694262
+  },
+  "byte_fallback_pct": {
+   "llama": 0.0,
+   "mistral": 0.0
+  },
+  "kv_ratio_llama_over_qwen": 10.487952520976723,
+  "mistral_vs_llama_pct": -3.9140936950556204
+ },
+ {
+  "language": "German",
+  "sentences": 1997,
+  "llama": 42.560340510766146,
+  "mistral": 45.64596895343014,
+  "qwen": 40.96044066099149,
+  "better_32k": "llama",
+  "delta_pct": -3.7591331050792376,
+  "delta_ci95": [
+   -4.0367042345367095,
+   -3.463940600447697
+  ],
+  "chars_per_token": {
+   "llama": 3.47852176061558,
+   "mistral": 3.2433766661181505,
+   "qwen": 3.614391549915646
+  },
+  "byte_fallback_pct": {
+   "llama": 0.0,
+   "mistral": 0.0
+  },
+  "kv_ratio_llama_over_qwen": 9.499973803061899,
+  "mistral_vs_llama_pct": 7.2500088242561045
+ },
+ {
+  "language": "French",
+  "sentences": 1997,
+  "llama": 44.210816224336504,
+  "mistral": 45.929894842263394,
+  "qwen": 41.41061592388583,
+  "better_32k": "llama",
+  "delta_pct": -6.333744860628165,
+  "delta_ci95": [
+   -6.574758184375042,
+   -6.088759266482431
+  ],
+  "chars_per_token": {
+   "llama": 3.3198699724767526,
+   "mistral": 3.195612830073483,
+   "qwen": 3.5443607385999494
+  },
+  "byte_fallback_pct": {
+   "llama": 0.0,
+   "mistral": 0.0
+  },
+  "kv_ratio_llama_over_qwen": 9.761100333575756,
+  "mistral_vs_llama_pct": 3.8883666141874995
+ },
+ {
+  "language": "Spanish",
+  "sentences": 1997,
+  "llama": 41.96895343014522,
+  "mistral": 43.620931397095646,
+  "qwen": 38.39359038557837,
+  "better_32k": "llama",
+  "delta_pct": -8.51906648212667,
+  "delta_ci95": [
+   -8.765547458779954,
+   -8.270139425995325
+  ],
+  "chars_per_token": {
+   "llama": 3.438982484608409,
+   "mistral": 3.308744016255123,
+   "qwen": 3.759234140233723
+  },
+  "byte_fallback_pct": {
+   "llama": 0.0,
+   "mistral": 0.0
+  },
+  "kv_ratio_llama_over_qwen": 9.994276174576676,
+  "mistral_vs_llama_pct": 3.9361905216436677
+ },
+ {
+  "language": "Russian",
+  "sentences": 1997,
+  "llama": 50.516274411617424,
+  "mistral": 55.215322984476714,
+  "qwen": 48.175262894341515,
+  "better_32k": "llama",
+  "delta_pct": -4.634172936430048,
+  "delta_ci95": [
+   -4.962994971698151,
+   -4.2801746791952215
+  ],
+  "chars_per_token": {
+   "llama": 2.724923424629018,
+   "mistral": 2.4930213576384164,
+   "qwen": 2.8573373802049766
+  },
+  "byte_fallback_pct": {
+   "llama": 0.0,
+   "mistral": 0.0
+  },
+  "kv_ratio_llama_over_qwen": 9.587141877103003,
+  "mistral_vs_llama_pct": 9.30204894876141
+ },
+ {
+  "language": "Vietnamese",
+  "sentences": 1997,
+  "llama": 86.99248873309965,
+  "mistral": 83.82423635453179,
+  "qwen": 38.09213820731097,
+  "better_32k": "mistral",
+  "delta_pct": -54.55713065347647,
+  "delta_ci95": [
+   -54.78286866555676,
+   -54.3394723983752
+  ],
+  "chars_per_token": {
+   "llama": 1.5606421680366558,
+   "mistral": 1.6196287866568695,
+   "qwen": 3.5640988563165505
+  },
+  "byte_fallback_pct": {
+   "llama": 7.220073219589694,
+   "mistral": 1.1917776304234844
+  },
+  "kv_ratio_llama_over_qwen": 20.87989633608143,
+  "mistral_vs_llama_pct": -3.641983836430196
+ },
+ {
+  "language": "Arabic",
+  "sentences": 1997,
+  "llama": 106.24486730095143,
+  "mistral": 104.37556334501753,
+  "qwen": 44.20681021532298,
+  "better_32k": "mistral",
+  "delta_pct": -57.64639844941901,
+  "delta_ci95": [
+   -57.83285841828015,
+   -57.448529092331256
+  ],
+  "chars_per_token": {
+   "llama": 1.0895975416055916,
+   "mistral": 1.1091115823410318,
+   "qwen": 2.6186948494013436
+  },
+  "byte_fallback_pct": {
+   "llama": 0.278077588360332,
+   "mistral": 0.015352287011005671
+  },
+  "kv_ratio_llama_over_qwen": 21.97357464071706,
+  "mistral_vs_llama_pct": -1.75942989381207
+ },
+ {
+  "language": "Chinese",
+  "sentences": 1997,
+  "llama": 61.36254381572358,
+  "mistral": 48.05958938407611,
+  "qwen": 27.238858287431146,
+  "better_32k": "mistral",
+  "delta_pct": -43.32274029695233,
+  "delta_ci95": [
+   -43.694091093112505,
+   -42.95953965934361
+  ],
+  "chars_per_token": {
+   "llama": 0.693327131327474,
+   "mistral": 0.8852409481635842,
+   "qwen": 1.5618979336715935
+  },
+  "byte_fallback_pct": {
+   "llama": 47.93008054447083,
+   "mistral": 19.97395154988278
+  },
+  "kv_ratio_llama_over_qwen": 20.596640509281144,
+  "mistral_vs_llama_pct": -21.679274691735827
+ },
+ {
+  "language": "Japanese",
+  "sentences": 1997,
+  "llama": 67.35703555333,
+  "mistral": 62.29744616925388,
+  "qwen": 38.4421632448673,
+  "better_32k": "mistral",
+  "delta_pct": -38.29255353353482,
+  "delta_ci95": [
+   -38.641556311446635,
+   -37.9558685771281
+  ],
+  "chars_per_token": {
+   "llama": 0.8298590460330677,
+   "mistral": 0.8972574110989647,
+   "qwen": 1.4540504630775444
+  },
+  "byte_fallback_pct": {
+   "llama": 24.863209230403235,
+   "mistral": 14.724133496238185
+  },
+  "kv_ratio_llama_over_qwen": 16.01979965871641,
+  "mistral_vs_llama_pct": -7.511597478291899
+ },
+ {
+  "language": "Korean",
+  "sentences": 1997,
+  "llama": 98.20280420630947,
+  "mistral": 73.65498247371056,
+  "qwen": 45.7486229344016,
+  "better_32k": "mistral",
+  "delta_pct": -37.88794539360523,
+  "delta_ci95": [
+   -38.17594041357768,
+   -37.578717645035596
+  ],
+  "chars_per_token": {
+   "llama": 0.6802525100580794,
+   "mistral": 0.9069678901889332,
+   "qwen": 1.46021234676007
+  },
+  "byte_fallback_pct": {
+   "llama": 50.562691536935716,
+   "mistral": 17.509806987606144
+  },
+  "kv_ratio_llama_over_qwen": 19.62581936452339,
+  "mistral_vs_llama_pct": -24.99706798700736
+ },
+ {
+  "language": "Hindi",
+  "sentences": 1997,
+  "llama": 141.92088132198296,
+  "mistral": 135.71957936905358,
+  "qwen": 121.22884326489735,
+  "better_32k": "mistral",
+  "delta_pct": -10.676968033294965,
+  "delta_ci95": [
+   -10.795039372791784,
+   -10.552845820445452
+  ],
+  "chars_per_token": {
+   "llama": 0.9229366020267028,
+   "mistral": 0.9651074411877564,
+   "qwen": 1.0804687435458955
+  },
+  "byte_fallback_pct": {
+   "llama": 11.627783893640444,
+   "mistral": 5.322987691490304
+  },
+  "kv_ratio_llama_over_qwen": 10.703412723983247,
+  "mistral_vs_llama_pct": -4.369548649335253
+ },
+ {
+  "language": "Bengali",
+  "sentences": 1997,
+  "llama": 157.3314972458688,
+  "mistral": 138.28242363545317,
+  "qwen": 130.69103655483224,
+  "better_32k": "mistral",
+  "delta_pct": -5.4897700525076925,
+  "delta_ci95": [
+   -5.652963397745165,
+   -5.333539174929263
+  ],
+  "chars_per_token": {
+   "llama": 0.7759674847465395,
+   "mistral": 0.8828607640774941,
+   "qwen": 0.9341430706157324
+  },
+  "byte_fallback_pct": {
+   "llama": 33.15276376471637,
+   "mistral": 17.059206952743075
+  },
+  "kv_ratio_llama_over_qwen": 11.006565111963786,
+  "mistral_vs_llama_pct": -12.10760333682378
+ },
+ {
+  "language": "Telugu",
+  "sentences": 1997,
+  "llama": 311.7691537305959,
+  "mistral": 203.03755633450174,
+  "qwen": 182.39359038557836,
+  "better_32k": "mistral",
+  "delta_pct": -10.167560288655519,
+  "delta_ci95": [
+   -10.328815404108695,
+   -10.000687497256518
+  ],
+  "chars_per_token": {
+   "llama": 0.397567952611857,
+   "mistral": 0.610475354283713,
+   "qwen": 0.6795711618712936
+  },
+  "byte_fallback_pct": {
+   "llama": 90.35227906065342,
+   "mistral": 58.42832691273744
+  },
+  "kv_ratio_llama_over_qwen": 15.628075680085344,
+  "mistral_vs_llama_pct": -34.87567518948672
+ },
+ {
+  "language": "Tamil",
+  "sentences": 1997,
+  "llama": 184.43465197796695,
+  "mistral": 176.4061091637456,
+  "qwen": 170.371557336004,
+  "better_32k": "mistral",
+  "delta_pct": -3.4208292764623893,
+  "delta_ci95": [
+   -3.5753457237498836,
+   -3.264514088400526
+  ],
+  "chars_per_token": {
+   "llama": 0.841562679872718,
+   "mistral": 0.879863632363753,
+   "qwen": 0.9110283571210233
+  },
+  "byte_fallback_pct": {
+   "llama": 23.827908643664678,
+   "mistral": 18.112426656977487
+  },
+  "kv_ratio_llama_over_qwen": 9.897542181301498,
+  "mistral_vs_llama_pct": -4.353055528404958
+ },
+ {
+  "language": "Swahili",
+  "sentences": 1997,
+  "llama": 56.11867801702554,
+  "mistral": 56.407110665999,
+  "qwen": 51.502754131196795,
+  "better_32k": "llama",
+  "delta_pct": -8.225289776833911,
+  "delta_ci95": [
+   -8.392414520668225,
+   -8.056856000460456
+  ],
+  "chars_per_token": {
+   "llama": 2.431618021040609,
+   "mistral": 2.419184162634826,
+   "qwen": 2.649551292646644
+  },
+  "byte_fallback_pct": {
+   "llama": 0.0,
+   "mistral": 0.0
+  },
+  "kv_ratio_llama_over_qwen": 9.962283858619335,
+  "mistral_vs_llama_pct": 0.5139690726249091
+ }
+]

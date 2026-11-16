@@ -1,0 +1,8 @@
+# Versions recorded by the run of 2026-11-13 (see results/run_2026-11-13_T4.log).
+# PyTorch 2.14.1 with CUDA 13.0 came from the Colab image; install the build that matches your GPU.
+torch==2.14.1
+transformers==5.22.2
+accelerate==1.15.0
+bitsandbytes==0.50.2
+# Used only by the summary cell of the notebook.
+pandas
