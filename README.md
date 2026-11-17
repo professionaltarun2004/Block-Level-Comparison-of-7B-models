@@ -45,4 +45,4 @@ You need access to `mistralai/Mistral-7B-v0.1`, `Qwen/Qwen2.5-7B`, and `huggylla
 ## Notes
 
 - `Block_Level_Comparison_v3_final.pdf` and `E2_E4_gpu_experiments_T4_v2 (1).ipynb` are the earlier draft and its notebook.
-- No license file is included yet. Add one before others reuse the code.
+- The code is released under the MIT License (see `LICENSE`).
